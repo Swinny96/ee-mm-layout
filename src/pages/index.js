@@ -19,10 +19,11 @@ const IndexPage = () => {
             linkstate="active-link"
             icon="key"
             linkname="Log In"
+            link="/"
           />
         }
         link2={
-          <Link state="" linkstate="" icon="user" linkname="Activate Account" />
+          <Link state="" linkstate="" icon="user" linkname="Activate Account" link="404" />
         }
       />
       <main></main>
