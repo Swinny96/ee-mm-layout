@@ -137,7 +137,8 @@
   }
   
   .Header-Text {
-    font-size: 20pt;
+    font-size: 22px;
+    font-weight: bold;
     margin: 0px;
     text-decoration: none;
     text-transform: uppercase;
